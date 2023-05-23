@@ -8,7 +8,6 @@ An ****online multi language Code editor****
 - Can run the code using custom input-output
 
 ## Website
-https://prasundante123.github.io/CodeBuns/
 
 ------------
 
